@@ -2,7 +2,7 @@
 - 👀 I’m interested in short, helpful scripts.
 - 🌱 I’m currently learning the basics.
 - 💞️ I’m looking to collaborate on learning.
-- 📫 How to reach me via Twitter ([@_heyjarrod](https://twitter.com/_heyjarrod)) or elsewhere on the internet ([bio.link/jarrod](https://bio.link/jarrod)).
+- 📫 Reach me via Twitter ([@_heyjarrod](https://twitter.com/_heyjarrod)) or elsewhere on the internet ([bio.link/jarrod](https://bio.link/jarrod)).
 
 <!---
 heyjarrod/heyjarrod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
